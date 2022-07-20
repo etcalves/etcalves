@@ -6,4 +6,4 @@
 - Into programming language theory and implementation, compilers, code optimization, algorithms, C/C++, Linux, theory of computation and coding. Also into science, philosophy, running, reading, psychology and music.
 - Cat person
 - Native Brazilian Portuguese speaker, fluent in English and know a bit of German. Feel free to reach out in any of these languages.
-- Reach out to me at tcalves@protonmail.com or mention me on twitter: @etcalves
+- Reach out to me at etcalves@protonmail.com or mention me on twitter: @etcalves
